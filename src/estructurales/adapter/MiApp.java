@@ -12,6 +12,8 @@ public class MiApp {
 		AdapterAmericanaAEuropea tomadaModificada = new AdapterAmericanaAEuropea();
 		String s = tomadaModificada.conecta(enchufeAmericano);
 		
+		//String ss = tomaEuro.conecta(enchufeAmericano);
+
 		System.out.println(s);
 		
 	}

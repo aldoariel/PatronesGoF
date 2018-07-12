@@ -1,4 +1,4 @@
-package estructurales.templateMethog;
+package comportamentales.templateMethog;
 
 public abstract class Juego {
 	
